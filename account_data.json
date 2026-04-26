@@ -1,0 +1,7 @@
+{
+  "account_number": "1234567890",
+  "pin": "1234",
+  "holder_name": "Student User",
+  "balance": 1000.0,
+  "transactions": []
+}
